@@ -1,0 +1,30 @@
+Fixed:
+- When you kill someone, their ghost is still rendered.
+- Invisible chams options would all display the same.
+- Removed annoying grenade timer hud.
+- Workshop crashes.
+- Now cheese's features will remain even if you die and play in another bot. //not fixed yet
+- Fixed AA Jitters.
+- Hit logs are now working with a nice look top left.
+- Broken config hover animation.
+- Silent aim for legit. //need check
+- Triggerbot improved.
+- Movements are better now.
+- On-shot chams ghosts
+- Auto zeus & knife always off when you load your config.
+- Inventory bugging and not showing skins properly sometimes.
+
+Added:
+- New watermark look.
+- New spectators list look.
+- Lua Support is here.
+- New indicators look.
+- Custom models.
+- Menu UI improvements & Look.
+- Startup Animation.
+- Backtrack chams.
+- Stream proof OBS & Discord. //
+- Confirmation before your config is deleted. (Yes/No)
+- Auto stop in legitbot.
+- New grenade animation.
+- Loader concept. (No need to be worried if you're using reev's latest dll, the loader will always keep your dll up-to-date)
