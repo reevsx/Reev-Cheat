@@ -1,8 +1,19 @@
-12/18/2025
+**changelog: ** `12/18/2025`
 
-Fixed:
-- Silent aim.
 
-Added:
-- Direct config location.
-- Extended lua API.
+> **Legitbot**
+> - **NEW:** Per-Weapon Settings (by class: Pistol / Rifle / SMG / Sniper / Shotgun / Machine Gun)
+> - **NEW:** Per-Weapon control for:
+>   - FOV
+>   - Smoothing
+>   - RCS (On/Off + Strength)
+>   - Assisted Recoil (On/Off + Strength)
+> - **IMPROVED:** Silent Aim reliability + consistency (cleaner server-side aiming behavior)
+
+> **Triggerbot**
+> - **NEW:** Accuracy Check option (prevents shooting when spread is too high)
+> - **NEW:** Max Inaccuracy slider (controls how strict the accuracy check is)
+
+> **Menu / UI**
+> - **NEW:** Legit tab now includes a full Per-Weapon editor (weapon class selector + overrides)
+> - **FIXED:** Menu filter/search consistency (some options could fail to show properly)
