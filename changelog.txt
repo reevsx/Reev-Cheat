@@ -1,19 +1,19 @@
-**changelog: ** `12/18/2025`
+ **changelog:** `12/20/2025` 
 
 
-> **Legitbot**
-> - **NEW:** Per-Weapon Settings (by class: Pistol / Rifle / SMG / Sniper / Shotgun / Machine Gun)
-> - **NEW:** Per-Weapon control for:
->   - FOV
->   - Smoothing
->   - RCS (On/Off + Strength)
->   - Assisted Recoil (On/Off + Strength)
-> - **IMPROVED:** Silent Aim reliability + consistency (cleaner server-side aiming behavior)
+ **Stability**
+- **FIXED:** Crash (stack overflow) when changing Ambience Sky Color.
+- **FIXED:** Crash when loading while already in a live match.
+- **IMPROVED:** Safer handling when game data isn’t fully ready yet.
 
-> **Triggerbot**
-> - **NEW:** Accuracy Check option (prevents shooting when spread is too high)
-> - **NEW:** Max Inaccuracy slider (controls how strict the accuracy check is)
+ **Visuals**
+- **FIXED:** Ambience Sky Color now updates correctly in-game.
+- **FIXED:** “Ghost/afterimage” player visuals appearing randomly.
+- **IMPROVED:** Cleaner visuals when enabling/disabling chams-related options.
 
-> **Menu / UI**
-> - **NEW:** Legit tab now includes a full Per-Weapon editor (weapon class selector + overrides)
-> - **FIXED:** Menu filter/search consistency (some options could fail to show properly)
+**Stability**
+- **FIXED:** Reev Inventory not opening for some users (improved embedded DLL extraction/loading reliability).
+- **IMPROVED:** Inventory loader now provides better error handling for failed loads.
+- **FIXED:** Grenade prediction being inaccurate in some cases (improved trace + throw strength/velocity handling).
+- **ADDED:** Grenade prediction expire countdown timer.
+- **IMPROVED:** Grenade prediction ground behavior (more consistent slide/friction after bounces).﻿ 
