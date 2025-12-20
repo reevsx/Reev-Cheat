@@ -1,19 +1,5 @@
  **changelog:** `12/20/2025` 
 
-
- **Stability**
-- **FIXED:** Crash (stack overflow) when changing Ambience Sky Color.
-- **FIXED:** Crash when loading while already in a live match.
-- **IMPROVED:** Safer handling when game data isn’t fully ready yet.
-
- **Visuals**
-- **FIXED:** Ambience Sky Color now updates correctly in-game.
-- **FIXED:** “Ghost/afterimage” player visuals appearing randomly.
-- **IMPROVED:** Cleaner visuals when enabling/disabling chams-related options.
-
-**Stability**
-- **FIXED:** Reev Inventory not opening for some users (improved embedded DLL extraction/loading reliability).
-- **IMPROVED:** Inventory loader now provides better error handling for failed loads.
-- **FIXED:** Grenade prediction being inaccurate in some cases (improved trace + throw strength/velocity handling).
-- **ADDED:** Grenade prediction expire countdown timer.
-- **IMPROVED:** Grenade prediction ground behavior (more consistent slide/friction after bounces).﻿ 
+**Skins / Inventory:**
+- **CHANGED:** Inventory open hotkey F4 → DEL (updated across UI + loader text).
+- **CHANGED:** Reev Inventory now matches Reev Menu theme style.
