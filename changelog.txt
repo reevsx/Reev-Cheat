@@ -1,5 +1,10 @@
- **changelog:** `12/20/2025` 
+ **changelog:** `12/22/2025` 
 
-**Skins / Inventory:**
-- **CHANGED:** Inventory open hotkey F4 → DEL (updated across UI + loader text).
-- **CHANGED:** Reev Inventory now matches Reev Menu theme style.
+
+Update!
+
+Several Triggerbot fixes and improvements.
+UI fixes
+Crashes fixes.
+Rage tab disabled for now.
+
