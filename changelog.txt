@@ -1,6 +1,8 @@
-**changelog:** `12/23/2024`
+> **Live Radio** 📻
+> Added in-game radio streaming via Radio Garden
+> - Browse 5000+ locations worldwide
+> - Search for stations by name
+> - Save favorites for quick access
+> - Volume control with real-time adjustment
+> - `bass.dll` auto-extracts on first use - no manual setup needed
 
-> ## New Features
-> - **Public Configs** - New subtab in CONFIG tab to browse and download community configs directly from GitHub.
-> - Click "Refresh" to fetch available configs, then download any config with one click.
-> - Downloaded configs are saved to your local config folder and can be loaded from the Local tab.
