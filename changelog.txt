@@ -1,11 +1,3 @@
 **changelog:** `12/23/2025`
-
-
-> **Live Radio** :radio:
-> Added in-game radio streaming via Radio Garden
-> - Browse 5000+ locations worldwide
-> - Search for stations by name
-> - Save favorites for quick access
-> - Volume control with real-time adjustment
-
-
+> ## New Features
+> - **Classic Menu** - New compact menu style with icon sidebar, toggle in MENU > Settings.
