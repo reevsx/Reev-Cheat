@@ -1,15 +1,7 @@
 **changelog:** `12/23/2025`
-
-> ## Radar Enhancements
-> - **View-Relative Radar** - Radar now rotates with player view, forward is always up.
-> - **Map Image Support** - Radar displays actual map images with proper UV clamping at edges.
-> - **Grenade Icons** - Shows grenades on radar using CS2 weapon icons (Flash, HE, Smoke, Molotov, Decoy).
-> - **Teammate Death Markers** - Red X markers show where teammates died, cleared on round start.
-> - **Enemy Names on Radar** - Optional display of enemy player names below their radar dot.
-> - **Dead Teammate Names** - Optional display of teammate names below their death marker.
-> - **Radar Settings Panel** - New settings section in Overlay subtab with range slider and toggle options.
-
-> ## Classic Menu Fixes
-> - **Config List Visibility** - Fixed config files not displaying in classic menu's config tab.
-> - **Auto-Refresh on Tab Switch** - Config list now refreshes automatically when opening config tab.
-> - **Custom Rendering** - Replaced broken Selectable widgets with manual draw list rendering for reliability.
+> ## Radar Improvements
+> - **C4 Tracking** - New options to show dropped and planted C4 on radar with bomb icon.
+> - **C4 Timer Colors** - Planted bomb icon changes from yellow → orange → red (pulsing) based on time remaining.
+> - **C4 Timer Display** - Optional timer text next to planted bomb, auto-hides when defused/exploded.
+> - **Enemy Death Markers** - Track enemy deaths on radar with optional name display.
+> - **Skull Icon** - Death markers now use skull-crack icon, tinted blue (team) or red (enemy).
