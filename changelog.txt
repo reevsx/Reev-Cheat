@@ -1,7 +1,3 @@
 **changelog:** `12/23/2025`
-> ## Radar Improvements
-> - **C4 Tracking** - New options to show dropped and planted C4 on radar with bomb icon.
-> - **C4 Timer Colors** - Planted bomb icon changes from yellow → orange → red (pulsing) based on time remaining.
-> - **C4 Timer Display** - Optional timer text next to planted bomb, auto-hides when defused/exploded.
-> - **Enemy Death Markers** - Track enemy deaths on radar with optional name display.
-> - **Skull Icon** - Death markers now use skull-crack icon, tinted blue (team) or red (enemy).
+> ## Bug Fixes
+> - **Skull Icon** - Fixed black background on death marker icons, now properly transparent.
