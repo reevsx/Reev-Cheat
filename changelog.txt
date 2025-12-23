@@ -1,3 +1,3 @@
 **changelog:** `12/23/2025`
 > ## Bug Fixes
-> - **AWP Scope Jitter** - Fixed scope view jittering when standing with AWP by skipping prediction while scoped.
+> - **Inventory Menu** - Fixed inventory not opening for some users. Resolved D3D11 Present hook conflict between main cheat and ReevInventory by implementing shared hook mode where main cheat handles all D3D hooks and calls ReevInventory's render functions directly.
