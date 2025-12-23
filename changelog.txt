@@ -1,3 +1,11 @@
 **changelog:** `12/23/2025`
-> ## Bug Fixes
-> - **Inventory Menu** - Fixed inventory not opening for some users. Resolved D3D11 Present hook conflict between main cheat and ReevInventory by implementing shared hook mode where main cheat handles all D3D hooks and calls ReevInventory's render functions directly.
+> ## Menu
+> - **Slider Manual Input** - Ctrl+Click on any slider to type a value directly.
+> - **Hex Color Input** - Color pickers now have a hex input field. Type colors like `#FF5500` or `#FF5500FF` (with alpha) and press Enter.
+
+> ## Misc
+> - **Improved Knifebot** - Now uses optimal 2 slash + 1 stab combo (123 damage, kills 100hp). Detects backstabs for instant kills. Fixed separate cooldowns for slash/stab attacks.
+
+> ## Fixes
+> - **Knifebot Stability** - Added null pointer checks to prevent crashes.
+> - **Weather Effects** - Temporarily disabled (Ash/Snow/Stars) due to missing particle files.
