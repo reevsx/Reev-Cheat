@@ -1,24 +1,6 @@
-changelog: 12/22/2024
+**changelog:** `12/23/2024`
 
-Menu UI Improvements
-Added smooth tab transition animations with fade effects.
-Added scroll position memory per tab (remembers where you scrolled).
-Added tooltip system with hover delay for better UX.
-Added config dirty tracking with "Unsaved" indicator.
-Added keyboard navigation (1-6 keys for tabs, arrow keys to navigate).
-Added double-click to reset sliders to default values.
-
-Dynamic Menu Color System
-Menu Color picker in Config tab now changes the entire menu theme in real-time.
-All UI elements now use the selected accent color:
-Panel borders, headers, and title text
-Buttons, checkboxes, sliders, and toggles
-Tab backgrounds and indicator lines
-Config list items (borders, gear icons, selection dots)
-Input fields, dropdowns, and scrollbars
-Section title text and separators
-Main menu background with accent tint
-Navigation bar and REEV logo
-
-Note
-The menu maintains its dark aesthetic while adapting to any chosen accent color.
+> ## New Features
+> - **Public Configs** - New subtab in CONFIG tab to browse and download community configs directly from GitHub.
+> - Click "Refresh" to fetch available configs, then download any config with one click.
+> - Downloaded configs are saved to your local config folder and can be loaded from the Local tab.
