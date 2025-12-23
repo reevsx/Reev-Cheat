@@ -1,8 +1,10 @@
-> **Live Radio** 📻
+**changelog:** `12/23/2024`
+
+
+> **Live Radio** :radio:
 > Added in-game radio streaming via Radio Garden
 > - Browse 5000+ locations worldwide
 > - Search for stations by name
 > - Save favorites for quick access
 > - Volume control with real-time adjustment
-> - `bass.dll` auto-extracts on first use - no manual setup needed
 
