@@ -1,6 +1,5 @@
-**changelog:** `12/24/2024`
-
-> ## Movement
-> - **Air Strafe Rework** - Simplified strafe using server-side yaw modification. More stable on HvH servers.
-> - **BunnyHop** - Cleaned up with post-prediction ground detection. Removed subtick spam that caused crashes.
-
+**changelog:** `12/25/2024`
+> ## Visuals
+> - **Spectators List Redesign** - Glassmorphism UI with team colors, avatars, time tracking, and overwatch warning indicator.
+> ## Fixes
+> - **Spectators List Crash** - Fixed crash when switching to free camera mode while spectating.
