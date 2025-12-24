@@ -1,11 +1,6 @@
-**changelog:** `12/23/2025`
-> ## Menu
-> - **Slider Manual Input** - Ctrl+Click on any slider to type a value directly.
-> - **Hex Color Input** - Color pickers now have a hex input field. Type colors like `#FF5500` or `#FF5500FF` (with alpha) and press Enter.
+**changelog:** `12/24/2024`
 
-> ## Misc
-> - **Improved Knifebot** - Now uses optimal 2 slash + 1 stab combo (123 damage, kills 100hp). Detects backstabs for instant kills. Fixed separate cooldowns for slash/stab attacks.
+> ## Movement
+> - **Air Strafe Rework** - Simplified strafe using server-side yaw modification. More stable on HvH servers.
+> - **BunnyHop** - Cleaned up with post-prediction ground detection. Removed subtick spam that caused crashes.
 
-> ## Fixes
-> - **Knifebot Stability** - Added null pointer checks to prevent crashes.
-> - **Weather Effects** - Temporarily disabled (Ash/Snow/Stars) due to missing particle files.
