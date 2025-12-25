@@ -1,5 +1,13 @@
 **changelog:** `12/25/2025`
 
-## Visuals
-- **C4 Chams** - Added chams for planted C4 bomb with customizable material and through-walls option.
+## Misc
+- **Custom Models Auto-Apply** - Custom models now automatically apply on spawn/respawn.
+- **Custom Models Crash Fix** - Fixed crash when joining online servers with custom model selected (now only works on local servers).
+
+## Stability
+- **Fixed Chams Crashes** - Added validation to skeleton instance access in chams rendering.
+- **Fixed ESP Crashes** - Added null checks to bone array access in skeleton ESP.
+- **Fixed Overlay Crashes** - Added validation to radar position calculation.
+- **Fixed Misc Crashes** - Added null checks to weapon speed calculation.
+- **Fixed Hook Crashes** - Added SEH protection and cached pointers in OverrideView hook.
 
