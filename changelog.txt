@@ -1,8 +1,5 @@
 **changelog:** `12/25/2025`
 
-> ## Legitbot
-> - **Improved Accuracy** - Fixed recoil compensation and aiming logic.
-> - **Visual Hitbox Selector** - New interactive player model to select target hitboxes.
+## Visuals
+- **C4 Chams** - Added chams for planted C4 bomb with customizable material and through-walls option.
 
-> ## Menu
-> - **Removed Classic Menu** - Streamlined to modern menu only.
