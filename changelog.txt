@@ -1,13 +1,8 @@
 **changelog:** `12/25/2025`
 
-## Misc
-- **Custom Models Auto-Apply** - Custom models now automatically apply on spawn/respawn.
-- **Custom Models Crash Fix** - Fixed crash when joining online servers with custom model selected (now only works on local servers).
+## Visuals
+- **Fixed World Hitmarker** - World hitmarker now properly displays at enemy hit positions.
 
 ## Stability
-- **Fixed Chams Crashes** - Added validation to skeleton instance access in chams rendering.
-- **Fixed ESP Crashes** - Added null checks to bone array access in skeleton ESP.
-- **Fixed Overlay Crashes** - Added validation to radar position calculation.
-- **Fixed Misc Crashes** - Added null checks to weapon speed calculation.
-- **Fixed Hook Crashes** - Added SEH protection and cached pointers in OverrideView hook.
-
+- **Entity Validation System** - Added comprehensive entity pointer validation across all entity iteration loops to prevent crashes when players connect/disconnect.
+- **Thread-Safe Entity List** - Added mutex protection to entity list operations for safer concurrent access.
