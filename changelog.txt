@@ -1,10 +1,8 @@
 **changelog:** `12/25/2025`
-> ## Visuals
-> - **Grenade Indicator** - Removed duplicate indicator that was drawing twice on throwables. Cleaned up indicator design with dark disk background, accent ring, and centered grenade icon.
 
-> ## UI
-> - **Menu Tab Sound** - Added Naruto jutsu sound effect when switching menu tabs (works in both New and Classic menu styles).
-> - **Classic Menu** - Added subtab clamping to prevent accessing disabled tabs.
+> ## Legitbot
+> - **Improved Accuracy** - Fixed recoil compensation and aiming logic.
+> - **Visual Hitbox Selector** - New interactive player model to select target hitboxes.
 
-> ## Fixes
-> - **Grenade ESP** - Fixed null pointer crashes by adding proper schema validation checks.
+> ## Menu
+> - **Removed Classic Menu** - Streamlined to modern menu only.
