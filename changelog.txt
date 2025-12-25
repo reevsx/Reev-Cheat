@@ -1,5 +1,10 @@
-**changelog:** `12/25/2024`
+**changelog:** `12/25/2025`
 > ## Visuals
-> - **Spectators List Redesign** - Glassmorphism UI with team colors, avatars, time tracking, and overwatch warning indicator.
+> - **Grenade Indicator** - Removed duplicate indicator that was drawing twice on throwables. Cleaned up indicator design with dark disk background, accent ring, and centered grenade icon.
+
+> ## UI
+> - **Menu Tab Sound** - Added Naruto jutsu sound effect when switching menu tabs (works in both New and Classic menu styles).
+> - **Classic Menu** - Added subtab clamping to prevent accessing disabled tabs.
+
 > ## Fixes
-> - **Spectators List Crash** - Fixed crash when switching to free camera mode while spectating.
+> - **Grenade ESP** - Fixed null pointer crashes by adding proper schema validation checks.
