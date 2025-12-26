@@ -1,8 +1,6 @@
-**changelog:** `12/25/2025`
+**changelog:** `12/26/2025`
 
-## Visuals
-- **Fixed World Hitmarker** - World hitmarker now properly displays at enemy hit positions.
-
-## Stability
-- **Entity Validation System** - Added comprehensive entity pointer validation across all entity iteration loops to prevent crashes when players connect/disconnect.
-- **Thread-Safe Entity List** - Added mutex protection to entity list operations for safer concurrent access.
+## Legitbot
+- **Simplified Triggerbot** - Reduced from 30+ options to 10 clean settings for easier configuration.
+- **New Hitchance System** - Triggerbot now calculates actual hit probability based on spread cone vs hitbox size.
+- **Auto Wall Support** - Triggerbot can now shoot through walls when target is hittable (with min damage setting).
