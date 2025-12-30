@@ -1,7 +1,11 @@
-**changelog:** `12/30/2025`
+**changelog:** `12/30/2024`
 
-## Stability
-- **Grenade Crash Fix** - Fixed crash when grenades/throwables are thrown.
+## Visuals
+- **Fixed Invisible Chams** - Now renders at any distance and through all walls.
+- **Fixed C4 Chams** - Now renders through walls at any distance.
 
-## Legitbot
-- **Target Prediction** - Added target prediction for improved accuracy against moving enemies.
+## Config
+- **Fixed Config Not Saving** - Fixed duplicate variable names causing some settings to not save properly (Legitbot, SemiRage, Misc tabs affected).
+
+## Menu
+- **Cleaned Up Header** - Removed cluttered "ACTIVE" status and keyboard hints from menu header.
