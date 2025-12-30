@@ -1,6 +1,5 @@
-**changelog:** `12/26/2025`
+**changelog:** `12/30/2025`
 
-## Legitbot
-- **Simplified Triggerbot** - Reduced from 30+ options to 10 clean settings for easier configuration.
-- **New Hitchance System** - Triggerbot now calculates actual hit probability based on spread cone vs hitbox size.
-- **Auto Wall Support** - Triggerbot can now shoot through walls when target is hittable (with min damage setting).
+> ## Visuals
+> - **Viewmodel Chams** - Added Weapon Chams and Arms Chams for first-person viewmodel. Supports all material types (Flat, Glow, Latex, Bloom, Spectrum, Glitch, Clown, X-Ray).
+
