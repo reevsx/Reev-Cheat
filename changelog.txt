@@ -1,5 +1,7 @@
 **changelog:** `12/30/2025`
 
-> ## Visuals
-> - **Viewmodel Chams** - Added Weapon Chams and Arms Chams for first-person viewmodel. Supports all material types (Flat, Glow, Latex, Bloom, Spectrum, Glitch, Clown, X-Ray).
+## Stability
+- **Match Join Crash Fix** - Fixed crash when joining matches caused by game rules not being initialized during team intro period.
 
+## Visuals
+- **Penetration Crosshair** - Reduced size of the wall penetration indicator for a cleaner look.
