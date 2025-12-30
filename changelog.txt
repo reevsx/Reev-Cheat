@@ -1,7 +1,7 @@
 **changelog:** `12/30/2025`
 
 ## Stability
-- **Match Join Crash Fix** - Fixed crash when joining matches caused by game rules not being initialized during team intro period.
+- **Grenade Crash Fix** - Fixed crash when grenades/throwables are thrown.
 
-## Visuals
-- **Penetration Crosshair** - Reduced size of the wall penetration indicator for a cleaner look.
+## Legitbot
+- **Target Prediction** - Added target prediction for improved accuracy against moving enemies.
